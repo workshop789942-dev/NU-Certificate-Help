@@ -16,7 +16,7 @@
     "name": "MD. NAYAM ISLAM",
     "role": "সিনিয়র এক্সিকিউটিভ",
     "whatsapp": "8801958605399",
-    "display": "01XXX-XXXXXX",
+    "display": "01958605399",
     "photo": "uploads/operator-1791626829148.jpg"
    }
   ],
@@ -25,12 +25,12 @@
    "dark": "auto",
    "radius": 10,
    "heroStyle": "gradient",
-   "name": "ধূসর-সবুজ",
-   "ink": "#1f2a24",
-   "primary": "#4d7c5b",
-   "accent": "#e9c46a",
-   "hero": "#26352c",
-   "paper": "#f4f6f3",
+   "name": "আধুনিক ধূসর",
+   "ink": "#1f2937",
+   "primary": "#475569",
+   "accent": "#38bdf8",
+   "hero": "#1f2937",
+   "paper": "#f3f4f6",
    "card": "#ffffff"
   },
   "sheetUrl": "",
