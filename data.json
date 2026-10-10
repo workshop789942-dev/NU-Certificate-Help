@@ -1,0 +1,559 @@
+{
+ "site": {
+  "name": "NU Student Support Centre",
+  "tag": "সনদ ও সেবা গাইডলাইন",
+  "hero": "জাতীয় বিশ্ববিদ্যালয়ের মূল সনদ, MOI, ট্রান্সক্রিপ্ট, নাম সংশোধন ও Apostille করার সঠিক নিয়ম",
+  "heroText": "মূল সনদ, সাময়িক সনদ, ট্রান্সক্রিপ্ট, MOI, নাম সংশোধন ও Apostille: কোন কাগজ লাগবে, কত খরচ, কত দিন লাগে, সবকিছু সহজ ভাষায় জানুন। আটকে গেলে আমাদের টিম পাশে আছে।",
+  "facebook": "https://www.facebook.com/yourpage",
+  "founder": "প্রতিষ্ঠাতার নাম",
+  "founderNote": "শিক্ষার্থীদের সনদ-সংক্রান্ত ঝামেলা কমাতেই আমাদের পথচলা।",
+  "photo": "",
+  "disclaimer": "এটি একটি বেসরকারি সহায়তা কেন্দ্র। আমরা জাতীয় বিশ্ববিদ্যালয়ের অংশ বা সরকারি প্রতিষ্ঠান নই। সরকারি নিয়ম ও ফি জানতে nu.ac.bd দেখুন।",
+  "formUrl": "",
+  "fbGroup": "",
+  "operators": [
+   {
+    "name": "অপারেটরের নাম",
+    "role": "সিনিয়র এক্সিকিউটিভ",
+    "whatsapp": "8801XXXXXXXXX",
+    "display": "01XXX-XXXXXX",
+    "photo": ""
+   }
+  ],
+  "theme": {
+   "font": "Hind Siliguri",
+   "dark": "auto",
+   "radius": 10,
+   "heroStyle": "gradient",
+   "name": "নীল-সবুজ",
+   "ink": "#12263f",
+   "primary": "#0e7c7b",
+   "accent": "#f2a900",
+   "hero": "#12263f",
+   "paper": "#f7f9fb",
+   "card": "#ffffff"
+  },
+  "sheetUrl": "",
+  "logo": "",
+  "heroImage": "",
+  "heroBadge": "✓ বিশ্বস্ত সনদ সহায়তা",
+  "founderTitle": "প্রতিষ্ঠাতা ও পরিচালক",
+  "founderMessage": "শিক্ষার্থীদের সনদ-সংক্রান্ত ঝামেলা কমাতেই আমাদের পথচলা। আপনার আবেদন যেন প্রথমবারেই সঠিক হয়, সেটাই আমাদের লক্ষ্য।",
+  "stats": [
+   {
+    "num": "৮টি",
+    "label": "সেবা এক জায়গায়"
+   },
+   {
+    "num": "ধাপে ধাপে",
+    "label": "সহজ গাইডলাইন"
+   },
+   {
+    "num": "ভিডিও",
+    "label": "গাইডসহ"
+   }
+  ],
+  "steps": [
+   {
+    "title": "সেবা বেছে নিন",
+    "text": "প্রয়োজনের সেবাটি নির্বাচন করে ধাপ ও কাগজের তালিকা দেখুন।"
+   },
+   {
+    "title": "ফর্ম পূরণ করুন",
+    "text": "স্টুডেন্ট রেজিস্ট্রেশন ফর্মে আপনার তথ্য দিন।"
+   },
+   {
+    "title": "আমরা যোগাযোগ করব",
+    "text": "আমাদের টিম WhatsApp এ আপনার সঙ্গে যোগাযোগ করবে।"
+   },
+   {
+    "title": "আবেদন সম্পন্ন",
+    "text": "সঠিক নিয়মে আবেদন করে সনদ সংগ্রহ করুন।"
+   }
+  ]
+ },
+ "services": [
+  {
+   "id": "original",
+   "title": "মূল সনদ",
+   "short": "বোর্ড থেকে চূড়ান্ত সার্টিফিকেট",
+   "intro": "মূল সনদ জাতীয় বিশ্ববিদ্যালয় সরাসরি ইস্যু করে। বিদেশে উচ্চশিক্ষা, চাকরি ও অনেক সরকারি-বেসরকারি আবেদনে এটি লাগে।",
+   "steps": [
+    "আবেদনপত্র পূরণ করে কলেজের অধ্যক্ষের স্বাক্ষর ও সত্যায়ন নিন।",
+    "কাগজপত্র স্ক্যান করে PDF করুন, প্রতিটি ফাইল ২ MB এর কম রাখুন।",
+    "Student Portal এ অ্যাকাউন্ট খুলে মূল সনদের আবেদন বেছে নিন।",
+    "তারকা (*) চিহ্নিত ঘর পূরণ করে ডকুমেন্ট আপলোড করুন এবং ফি দিন।",
+    "ড্যাশবোর্ডে Signatured দেখালে গাজীপুর মেইন ক্যাম্পাস থেকে সনদ নিন।"
+   ],
+   "docs": [
+    "রেজিস্ট্রেশন কার্ড",
+    "এডমিট কার্ড (শেষ বর্ষ)",
+    "সাময়িক সনদ (মূল কপি জমা দিতে হবে)",
+    "নম্বরপত্র",
+    "অধ্যক্ষের সুপারিশসহ আবেদনপত্র"
+   ],
+   "fee": "৳ ৬০৬",
+   "time": "সাধারণত ২০-৩০ দিন। পুরনো ব্যাচে ২-৩ মাস লাগতে পারে।",
+   "faqs": [
+    {
+     "q": "সাময়িক সনদ না থাকলে আবেদন করা যাবে?",
+     "a": "না। মূল সনদ নেওয়ার সময় সাময়িক সনদ জমা দিতে হয়, তাই আগে সেটি তুলতে হবে।"
+    },
+    {
+     "q": "অন্য কেউ কি আমার হয়ে সনদ নিতে পারবে?",
+     "a": "পারবে, তবে আপনার সম্মতিপত্র ও NID এর কপি লাগবে।"
+    },
+    {
+     "q": "অনার্স ও মাস্টার্সের জন্য আলাদা অ্যাকাউন্ট লাগবে?",
+     "a": "হ্যাঁ, প্রতিটি কোর্সের জন্য আলাদা অ্যাকাউন্ট খুলতে হয়।"
+    }
+   ],
+   "samples": [],
+   "video": "",
+   "icon": "🎓",
+   "image": ""
+  },
+  {
+   "id": "provisional",
+   "title": "সাময়িক সনদ",
+   "short": "কলেজ থেকে প্রাপ্ত প্রভিশনাল",
+   "intro": "কোর্স শেষ হওয়ার পর কলেজ থেকে সাময়িক সনদ ও নম্বরপত্র পাওয়া যায়। মূল সনদের আবেদনের আগে এটি লাগে।",
+   "steps": [
+    "চূড়ান্ত ফল প্রকাশের পর নিজের কলেজে যোগাযোগ করুন।",
+    "কলেজের নির্ধারিত আবেদন ও প্রয়োজনীয় কাগজ জমা দিন।",
+    "সনদ প্রস্তুত হলে কলেজ থেকে সংগ্রহ করুন।"
+   ],
+   "docs": [
+    "রেজিস্ট্রেশন কার্ড",
+    "এডমিট কার্ড",
+    "কলেজের চাহিদা অনুযায়ী অন্যান্য কাগজ"
+   ],
+   "fee": "কলেজভেদে ভিন্ন, সাধারণত বিনামূল্যে",
+   "time": "ফল প্রকাশের ২-৩ মাস পর",
+   "faqs": [
+    {
+     "q": "সাময়িক সনদ কি সব জায়গায় চলে?",
+     "a": "বিদেশের অনেক প্রতিষ্ঠান গ্রহণ করে না, সেখানে মূল সনদ লাগে।"
+    }
+   ],
+   "samples": [],
+   "video": "",
+   "icon": "📜",
+   "image": ""
+  },
+  {
+   "id": "transcript",
+   "title": "ট্রান্সক্রিপ্ট",
+   "short": "একাডেমিক ট্রান্সক্রিপ্টের আবেদন",
+   "intro": "বিদেশে আবেদন বা উচ্চশিক্ষায় সাধারণত একাডেমিক ট্রান্সক্রিপ্ট চাওয়া হয়।",
+   "steps": [
+    "কী কাজে ট্রান্সক্রিপ্ট লাগবে তা ঠিক করুন।",
+    "প্রয়োজনীয় কাগজ স্ক্যান করে প্রস্তুত রাখুন।",
+    "জাতীয় বিশ্ববিদ্যালয়ের অনলাইন পোর্টালে আবেদন করে ফি দিন।",
+    "অবস্থা যাচাই করে প্রস্তুত হলে সংগ্রহ করুন।"
+   ],
+   "docs": [
+    "রেজিস্ট্রেশন কার্ড",
+    "এডমিট কার্ড",
+    "নম্বরপত্র ও সনদের কপি"
+   ],
+   "fee": "আবেদনের আগে হালনাগাদ ফি যাচাই করুন",
+   "time": "বিষয়ভেদে ভিন্ন",
+   "faqs": [],
+   "samples": [],
+   "video": "",
+   "icon": "📑",
+   "image": ""
+  },
+  {
+   "id": "moi",
+   "title": "MOI সনদ",
+   "short": "বিদেশে আবেদনের জন্য",
+   "intro": "MOI (Medium of Instruction) সনদ প্রমাণ করে আপনার পড়াশোনার মাধ্যম কী ছিল। বিদেশের অনেক বিশ্ববিদ্যালয় এটি চায়।",
+   "steps": [
+    "কোন দেশ বা প্রতিষ্ঠানের জন্য লাগবে তা জেনে নিন।",
+    "প্রয়োজনীয় ডকুমেন্ট প্রস্তুত করুন।",
+    "অনলাইনে আবেদন করে ফি জমা দিন।",
+    "প্রস্তুত হলে নির্দেশনা অনুযায়ী সংগ্রহ করুন।"
+   ],
+   "docs": [
+    "সনদ ও নম্বরপত্রের কপি",
+    "রেজিস্ট্রেশন কার্ড",
+    "পাসপোর্ট বা NID এর কপি"
+   ],
+   "fee": "আবেদনের আগে হালনাগাদ ফি যাচাই করুন",
+   "time": "বিষয়ভেদে ভিন্ন",
+   "faqs": [],
+   "samples": [],
+   "video": "",
+   "icon": "🌍",
+   "image": ""
+  },
+  {
+   "id": "name",
+   "title": "নাম সংশোধন",
+   "short": "সনদ ও কার্ডে নামের ভুল ঠিক করা",
+   "intro": "রেজিস্ট্রেশন, এডমিট কার্ড বা সনদে নামের বানান ভুল থাকলে আগে সংশোধন করে নিতে হয়।",
+   "steps": [
+    "কোন কাগজে কী ভুল আছে তা চিহ্নিত করুন।",
+    "NID, SSC সনদ ইত্যাদি প্রমাণপত্র জোগাড় করুন।",
+    "কলেজের মাধ্যমে সংশোধনের আবেদন জমা দিন।",
+    "সংশোধিত কাগজ হাতে পেয়ে নতুন করে মিলিয়ে দেখুন।"
+   ],
+   "docs": [
+    "ভুল নামসহ কার্ড বা সনদ",
+    "NID ও SSC সনদের কপি",
+    "অধ্যক্ষের সুপারিশ"
+   ],
+   "fee": "আবেদনের আগে হালনাগাদ ফি যাচাই করুন",
+   "time": "বিষয়ভেদে ভিন্ন",
+   "faqs": [],
+   "samples": [],
+   "video": "",
+   "icon": "✏️",
+   "image": ""
+  },
+  {
+   "id": "apostille",
+   "title": "Apostille",
+   "short": "myGov.bd এর মাধ্যমে",
+   "intro": "বিদেশে সনদ ব্যবহারের জন্য Apostille করা লাগতে পারে। এটি myGov.bd পোর্টালের মাধ্যমে আবেদন করতে হয়।",
+   "steps": [
+    "মূল সনদ বা ট্রান্সক্রিপ্ট প্রস্তুত রাখুন।",
+    "myGov.bd এ অ্যাকাউন্ট খুলুন।",
+    "Apostille সেবা বেছে নিয়ে আবেদন ও ফি জমা দিন।",
+    "নির্ধারিত দিনে সংগ্রহ করুন।"
+   ],
+   "docs": [
+    "মূল সনদ বা ট্রান্সক্রিপ্ট",
+    "পাসপোর্ট বা NID এর কপি"
+   ],
+   "fee": "আবেদনের আগে হালনাগাদ ফি যাচাই করুন",
+   "time": "বিষয়ভেদে ভিন্ন",
+   "faqs": [],
+   "samples": [],
+   "video": "",
+   "icon": "🛂",
+   "image": ""
+  },
+  {
+   "id": "attest",
+   "title": "সত্যায়ন",
+   "short": "সনদ ও ট্রান্সক্রিপ্ট যাচাই",
+   "intro": "চাকরি বা বিদেশের আবেদনে সনদের সত্যতা যাচাই বা সত্যায়ন লাগতে পারে।",
+   "steps": [
+    "কোন প্রতিষ্ঠান যাচাই চাইছে তা জেনে নিন।",
+    "সনদের কপি ও প্রয়োজনীয় কাগজ জোগাড় করুন।",
+    "নিয়ম অনুযায়ী আবেদন জমা দিন।",
+    "ফলাফল বা সত্যায়িত কপি সংগ্রহ করুন।"
+   ],
+   "docs": [
+    "সনদ ও ট্রান্সক্রিপ্টের কপি",
+    "যাচাইয়ের অনুরোধপত্র"
+   ],
+   "fee": "আবেদনের আগে হালনাগাদ ফি যাচাই করুন",
+   "time": "বিষয়ভেদে ভিন্ন",
+   "faqs": [],
+   "samples": [],
+   "video": "",
+   "icon": "✅",
+   "image": ""
+  },
+  {
+   "id": "lost",
+   "title": "হারানো সনদ",
+   "short": "দ্বিনকল সনদের আবেদন",
+   "intro": "মূল সনদ বা নম্বরপত্র হারিয়ে গেলে দ্বিনকল (ডুপ্লিকেট) সনদের জন্য আলাদা আবেদন করতে হয়।",
+   "steps": [
+    "থানায় জিডি করুন।",
+    "পত্রিকায় হারানোর বিজ্ঞপ্তি দিন, যদি নিয়ম থাকে।",
+    "প্রয়োজনীয় কাগজসহ আবেদন জমা দিন।",
+    "প্রস্তুত হলে নির্দেশনা অনুযায়ী সংগ্রহ করুন।"
+   ],
+   "docs": [
+    "জিডির কপি",
+    "রেজিস্ট্রেশন ও এডমিট কার্ড",
+    "NID এর কপি"
+   ],
+   "fee": "আবেদনের আগে হালনাগাদ ফি যাচাই করুন",
+   "time": "বিষয়ভেদে ভিন্ন",
+   "faqs": [],
+   "samples": [],
+   "video": "",
+   "icon": "🔎",
+   "image": ""
+  }
+ ],
+ "pages": {
+  "about": {
+   "title": "আমাদের সম্পর্কে",
+   "body": "NU Student Support Centre জাতীয় বিশ্ববিদ্যালয়ের শিক্ষার্থীদের সনদ ও অনলাইন সেবা নিয়ে গাইডলাইন এবং আবেদন সহায়তা দেয়। আমরা সরকারি প্রতিষ্ঠান নই।\nআমাদের লক্ষ্য আবেদনের ধাপ সহজ করা, যেন ভুল কাগজ বা ভুল ধাপে কারও সময় নষ্ট না হয়।"
+  },
+  "privacy": {
+   "title": "Privacy Policy",
+   "body": "আপনি আমাদের যে তথ্য (নাম, মোবাইল নম্বর, ডকুমেন্ট) দেন, তা শুধু আপনার আবেদনের কাজে ব্যবহার করা হবে।\nআপনার অনুমতি ছাড়া কোনো তৃতীয় পক্ষকে তথ্য দেওয়া হবে না।\nস্টুডেন্ট রেজিস্ট্রেশন ফর্মের তথ্য Google Forms এ জমা হয়, তাই সেখানে Google এর নীতিও প্রযোজ্য।"
+  },
+  "disclaimer": {
+   "title": "Disclaimer",
+   "body": "এই সাইটের তথ্য সাধারণ গাইডলাইন হিসেবে দেওয়া। জাতীয় বিশ্ববিদ্যালয়ের নিয়ম, ফি ও সময় বদলাতে পারে।\nসনদ ইস্যু ও অনুমোদনের ক্ষমতা শুধু জাতীয় বিশ্ববিদ্যালয়ের। আমরা তাদের প্রতিনিধি নই।\nসঠিক ও হালনাগাদ তথ্যের জন্য nu.ac.bd দেখুন।"
+  },
+  "terms": {
+   "title": "Terms & Conditions",
+   "body": "সেবার ফি ও সময় আবেদনের আগে জানানো হবে এবং NU এর নিয়ম বদলালে পরিবর্তন হতে পারে।\nভুল বা অসম্পূর্ণ তথ্যের কারণে আবেদন বাতিল হলে দায় আবেদনকারীর।\nআমাদের সেবা নেওয়া মানে এই শর্তগুলো মেনে নেওয়া।"
+  }
+ },
+ "admin": {
+  "user": "admin",
+  "salt": "5282676391e1f7466860b091",
+  "hash": "83735de2d010e1013ce3dcfbea060605909ad85e5421e82b5232b607211309b1"
+ },
+ "customPages": [],
+ "en": {
+  "site": {
+   "name": "NU Student Support Centre",
+   "tag": "Certificate and service guidelines",
+   "hero": "The correct process for National University original certificate, MOI, transcript, name correction and Apostille",
+   "heroText": "Original certificate, provisional certificate, transcript, MOI, name correction and Apostille: which documents you need, how much it costs and how long it takes, all in simple language. If you get stuck, our team is with you.",
+   "founder": "Founder name",
+   "founderNote": "We started this journey to reduce the hassle students face with their certificates.",
+   "disclaimer": "This is a private support centre. We are not part of National University or any government body. For official rules and fees, visit nu.ac.bd.",
+   "operators": [
+    {
+     "name": "Operator name",
+     "role": "Senior Executive"
+    }
+   ],
+   "heroBadge": "✓ Trusted certificate support",
+   "founderTitle": "Founder and Director",
+   "founderMessage": "We started this journey to reduce the hassle students face with certificates. Our aim is that your application is correct the first time.",
+   "stats": [
+    {
+     "label": "services in one place"
+    },
+    {
+     "label": "simple step-by-step guidance"
+    },
+    {
+     "label": "with video guides"
+    }
+   ],
+   "steps": [
+    {
+     "title": "Choose a service",
+     "text": "Select the service you need and see the steps and document list."
+    },
+    {
+     "title": "Fill in the form",
+     "text": "Give your details in the student registration form."
+    },
+    {
+     "title": "We contact you",
+     "text": "Our team will contact you on WhatsApp."
+    },
+    {
+     "title": "Application done",
+     "text": "Apply the correct way and collect your certificate."
+    }
+   ]
+  },
+  "services": [
+   {
+    "id": "original",
+    "title": "Original Certificate",
+    "short": "Final certificate from the university",
+    "intro": "The original certificate is issued directly by National University. It is needed for higher studies abroad, jobs and many government and private applications.",
+    "steps": [
+     "Fill in the application form and get the principal's signature and attestation.",
+     "Scan the documents as PDF, keeping each file under 2 MB.",
+     "Create an account on the National University Student Portal and choose the original certificate application.",
+     "Fill in the fields marked with a star (*), upload the documents and pay the fee.",
+     "When the dashboard shows Signatured, collect the certificate from the Gazipur main campus."
+    ],
+    "docs": [
+     "Registration card",
+     "Admit card (final year)",
+     "Provisional certificate (the original copy must be submitted)",
+     "Mark sheet",
+     "Application form with the principal's recommendation"
+    ],
+    "fee": "৳ 606",
+    "time": "Usually 20-30 days. Older batches may take 2-3 months.",
+    "faqs": [
+     {
+      "q": "Can I apply without a provisional certificate?",
+      "a": "No. The provisional certificate must be submitted when collecting the original, so get it first."
+     },
+     {
+      "q": "Can someone else collect the certificate for me?",
+      "a": "Yes, with your authorization letter and a copy of your NID."
+     },
+     {
+      "q": "Do I need separate accounts for Honours and Masters?",
+      "a": "Yes, you need a separate account for each course."
+     }
+    ]
+   },
+   {
+    "id": "provisional",
+    "title": "Provisional Certificate",
+    "short": "Provisional certificate from your college",
+    "intro": "After the course ends, your college issues a provisional certificate and mark sheet. You need it before applying for the original certificate.",
+    "steps": [
+     "Contact your college after the final result is published.",
+     "Submit the college's application and required documents.",
+     "Collect the certificate from the college when it is ready."
+    ],
+    "docs": [
+     "Registration card",
+     "Admit card",
+     "Any other documents your college asks for"
+    ],
+    "fee": "Varies by college, usually free",
+    "time": "2-3 months after the result is published",
+    "faqs": [
+     {
+      "q": "Is the provisional certificate accepted everywhere?",
+      "a": "Many institutions abroad do not accept it. They need the original certificate."
+     }
+    ]
+   },
+   {
+    "id": "transcript",
+    "title": "Transcript",
+    "short": "Apply for an academic transcript",
+    "intro": "An academic transcript is usually required for applications abroad and for higher studies.",
+    "steps": [
+     "Decide what the transcript is needed for.",
+     "Scan and keep the required documents ready.",
+     "Apply on the National University online portal and pay the fee.",
+     "Check the status and collect it when it is ready."
+    ],
+    "docs": [
+     "Registration card",
+     "Admit card",
+     "Copies of the mark sheet and certificate"
+    ],
+    "fee": "Check the latest fee before applying",
+    "time": "Varies",
+    "faqs": []
+   },
+   {
+    "id": "moi",
+    "title": "MOI Certificate",
+    "short": "For applications abroad",
+    "intro": "An MOI (Medium of Instruction) certificate proves the language in which you studied. Many universities abroad ask for it.",
+    "steps": [
+     "Find out which country or institution needs it.",
+     "Prepare the required documents.",
+     "Apply online and pay the fee.",
+     "Collect it as instructed when it is ready."
+    ],
+    "docs": [
+     "Copies of the certificate and mark sheet",
+     "Registration card",
+     "Copy of passport or NID"
+    ],
+    "fee": "Check the latest fee before applying",
+    "time": "Varies",
+    "faqs": []
+   },
+   {
+    "id": "name",
+    "title": "Name Correction",
+    "short": "Fix name mistakes on certificates and cards",
+    "intro": "If your name is spelled wrongly on the registration card, admit card or certificate, it must be corrected first.",
+    "steps": [
+     "Identify which document has the mistake.",
+     "Collect proof such as NID and SSC certificate.",
+     "Submit the correction application through your college.",
+     "Receive the corrected document and check it carefully."
+    ],
+    "docs": [
+     "Card or certificate with the wrong name",
+     "Copies of NID and SSC certificate",
+     "Principal's recommendation"
+    ],
+    "fee": "Check the latest fee before applying",
+    "time": "Varies",
+    "faqs": []
+   },
+   {
+    "id": "apostille",
+    "title": "Apostille",
+    "short": "Through myGov.bd",
+    "intro": "Your certificate may need an Apostille to be used abroad. You apply for it through the myGov.bd portal.",
+    "steps": [
+     "Keep your original certificate or transcript ready.",
+     "Create an account on myGov.bd.",
+     "Choose the Apostille service, apply and pay the fee.",
+     "Collect it on the given date."
+    ],
+    "docs": [
+     "Original certificate or transcript",
+     "Copy of passport or NID"
+    ],
+    "fee": "Check the latest fee before applying",
+    "time": "Varies",
+    "faqs": []
+   },
+   {
+    "id": "attest",
+    "title": "Attestation",
+    "short": "Verification of certificates and transcripts",
+    "intro": "For jobs or applications abroad, your certificate may need to be verified or attested.",
+    "steps": [
+     "Find out which organization wants the verification.",
+     "Collect copies of your certificate and other documents.",
+     "Submit the application as per the rules.",
+     "Collect the result or the attested copy."
+    ],
+    "docs": [
+     "Copies of certificate and transcript",
+     "Verification request letter"
+    ],
+    "fee": "Check the latest fee before applying",
+    "time": "Varies",
+    "faqs": []
+   },
+   {
+    "id": "lost",
+    "title": "Lost Certificate",
+    "short": "Apply for a duplicate certificate",
+    "intro": "If your original certificate or mark sheet is lost, you must apply separately for a duplicate.",
+    "steps": [
+     "File a General Diary (GD) at the police station.",
+     "Publish a notice of loss in a newspaper, if required.",
+     "Submit the application with the required documents.",
+     "Collect it as instructed when it is ready."
+    ],
+    "docs": [
+     "Copy of the GD",
+     "Registration and admit cards",
+     "Copy of NID"
+    ],
+    "fee": "Check the latest fee before applying",
+    "time": "Varies",
+    "faqs": []
+   }
+  ],
+  "pages": {
+   "about": {
+    "title": "About us",
+    "body": "NU Student Support Centre gives guidelines and application support for National University students on certificates and online services. We are not a government organization.\nOur aim is to make the application steps simple so nobody wastes time with wrong documents or wrong steps."
+   },
+   "privacy": {
+    "title": "Privacy Policy",
+    "body": "The information you give us (name, mobile number, documents) will only be used for your application.\nWe will not share your information with any third party without your permission.\nThe student registration form data is stored in Google Forms, so Google's policies also apply."
+   },
+   "disclaimer": {
+    "title": "Disclaimer",
+    "body": "The information on this site is general guidance. National University's rules, fees and timelines may change.\nOnly National University has the authority to issue and approve certificates. We are not their representative.\nFor correct and up-to-date information, visit nu.ac.bd."
+   },
+   "terms": {
+    "title": "Terms & Conditions",
+    "body": "Service fees and timelines will be told before you apply and may change if NU's rules change.\nIf an application is rejected because of wrong or incomplete information, the applicant is responsible.\nUsing our service means you accept these terms."
+   }
+  },
+  "customPages": []
+ }
+}
