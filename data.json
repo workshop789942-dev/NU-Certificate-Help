@@ -70,7 +70,11 @@
     "title": "আবেদন সম্পন্ন",
     "text": "সঠিক নিয়মে আবেদন করে সনদ সংগ্রহ করুন।"
    }
-  ]
+  ],
+  "showStats": true,
+  "showSteps": true,
+  "showFounder": true,
+  "showRegister": true
  },
  "services": [
   {
@@ -303,9 +307,9 @@
   }
  },
  "admin": {
-  "user": "admin",
-  "salt": "5282676391e1f7466860b091",
-  "hash": "83735de2d010e1013ce3dcfbea060605909ad85e5421e82b5232b607211309b1"
+  "user": "AHMMED",
+  "salt": "f72f2b57550f017468c13ea2",
+  "hash": "0496bbd65c8ca9d059e8f482c71295b415832e8a06a6e4e7f5de84f656ff5df2"
  },
  "customPages": [],
  "en": {
