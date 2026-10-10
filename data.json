@@ -39,20 +39,7 @@
   "heroBadge": "✓ বিশ্বস্ত সনদ সহায়তা",
   "founderTitle": "FOUNDER AND CEO",
   "founderMessage": "শিক্ষার্থীদের সনদ-সংক্রান্ত ঝামেলা কমাতেই আমাদের পথচলা। আপনার আবেদন যেন প্রথমবারেই সঠিক হয়, সেটাই আমাদের লক্ষ্য।",
-  "stats": [
-   {
-    "num": "৮টি",
-    "label": "সেবা এক জায়গায়"
-   },
-   {
-    "num": "ধাপে ধাপে",
-    "label": "সহজ গাইডলাইন"
-   },
-   {
-    "num": "ভিডিও",
-    "label": "গাইডসহ"
-   }
-  ],
+  "stats": [],
   "steps": [
    {
     "title": "সেবা বেছে নিন",
@@ -120,7 +107,7 @@
     }
    ],
    "video": "https://www.youtube.com/watch?v=pkGE60COsgw",
-   "icon": "",
+   "icon": "🎓",
    "image": ""
   },
   {
@@ -350,17 +337,7 @@
    "heroBadge": "✓ Trusted certificate support",
    "founderTitle": "Founder and Director",
    "founderMessage": "We started this journey to reduce the hassle students face with certificates. Our aim is that your application is correct the first time.",
-   "stats": [
-    {
-     "label": "services in one place"
-    },
-    {
-     "label": "simple step-by-step guidance"
-    },
-    {
-     "label": "with video guides"
-    }
-   ],
+   "stats": [],
    "steps": [
     {
      "title": "Choose a service",
