@@ -112,7 +112,13 @@
      "a": "হ্যাঁ, প্রতিটি কোর্সের জন্য আলাদা অ্যাকাউন্ট খুলতে হয়।"
     }
    ],
-   "samples": [],
+   "samples": [
+    {
+     "label": "নমুনা",
+     "image": "",
+     "pdf": ""
+    }
+   ],
    "video": "https://www.youtube.com/watch?v=pkGE60COsgw",
    "icon": "🎓",
    "image": ""
