@@ -4,10 +4,10 @@
   "tag": "সনদ ও সেবা গাইডলাইন",
   "hero": "জাতীয় বিশ্ববিদ্যালয়ের মূল সনদ, MOI, ট্রান্সক্রিপ্ট, নাম সংশোধন ও Apostille করার সঠিক নিয়ম",
   "heroText": "মূল সনদ, সাময়িক সনদ, ট্রান্সক্রিপ্ট, MOI, নাম সংশোধন ও Apostille: কোন কাগজ লাগবে, কত খরচ, কত দিন লাগে, সবকিছু সহজ ভাষায় জানুন। আটকে গেলে আমাদের টিম পাশে আছে।",
-  "facebook": "",
-  "founder": "AHMMED SHAH JUBORAJ",
+  "facebook": "https://www.facebook.com/yourpage",
+  "founder": "প্রতিষ্ঠাতার নাম",
   "founderNote": "শিক্ষার্থীদের সনদ-সংক্রান্ত ঝামেলা কমাতেই আমাদের পথচলা।",
-  "photo": "uploads/founder-1791612614166.jpg",
+  "photo": "",
   "disclaimer": "এটি একটি বেসরকারি সহায়তা কেন্দ্র। আমরা জাতীয় বিশ্ববিদ্যালয়ের অংশ বা সরকারি প্রতিষ্ঠান নই। সরকারি নিয়ম ও ফি জানতে nu.ac.bd দেখুন।",
   "formUrl": "",
   "fbGroup": "",
@@ -34,8 +34,8 @@
    "card": "#ffffff"
   },
   "sheetUrl": "",
-  "logo": "uploads/logo-1791612230276.png",
-  "heroImage": "uploads/hero-1791612336192.jpg",
+  "logo": "",
+  "heroImage": "",
   "heroBadge": "✓ বিশ্বস্ত সনদ সহায়তা",
   "founderTitle": "প্রতিষ্ঠাতা ও পরিচালক",
   "founderMessage": "শিক্ষার্থীদের সনদ-সংক্রান্ত ঝামেলা কমাতেই আমাদের পথচলা। আপনার আবেদন যেন প্রথমবারেই সঠিক হয়, সেটাই আমাদের লক্ষ্য।",
@@ -113,7 +113,7 @@
     }
    ],
    "samples": [],
-   "video": "",
+   "video": "https://www.youtube.com/watch?v=pkGE60COsgw",
    "icon": "🎓",
    "image": ""
   },
